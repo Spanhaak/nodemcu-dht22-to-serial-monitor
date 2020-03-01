@@ -8,4 +8,4 @@ Easy to use code to connect a DHT sensor to a NodeMCU board.
 - DHT22 Temperature and Humidity sensor
 
 ## Fritzing schematics
-![Image description](link-to-image)
+![Fritzing Schematics](link-to-image)
