@@ -8,4 +8,6 @@ Easy to use code to connect a DHT sensor to a NodeMCU board.
 - DHT22 Temperature and Humidity sensor
 
 ## Fritzing schematics
-![Fritzing Schematics](https://github.com/Spanhaak/nodemcu-dht22-to-serial-monitor/raw/master/Fritzing.png)
+<img src="https://github.com/Spanhaak/nodemcu-dht22-to-serial-monitor/raw/master/Fritzing.png" width="500" height="400">
+
+
