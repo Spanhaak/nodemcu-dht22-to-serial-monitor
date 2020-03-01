@@ -1,7 +1,7 @@
 # nodemcu-dht22-to-serial-monitor
 
 ## Description
-Easy to use code to connect a DHT sensor to a NodeMCU board.
+Easy to use [code](https://github.com/Spanhaak/nodemcu-dht22-to-serial-monitor/blob/master/nodemcu-dht22-to-serial-monitor.ino) to connect a DHT sensor to a NodeMCU board.
 
 ## Bill of materials
 - LoL1n NodeMCU v3 ESP8266
